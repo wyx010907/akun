@@ -10,19 +10,19 @@
 
 # Architecture of our proposed Network
 
-![image-20231016210225341](./pictures/1.png)
+![image-20231016210225341](1.png)
 
 > The network is composed of three main parts, including the feature extractor module, the support-based query interaction module (SQIM), and the meta-contrastive module (MCM). Among them, SQIM and MCM are the core of the proposed method. Indeed, SQIM mines latent knowledge by interacting with query features and support features. MCM enhances the model's learning ability to perform fine-grained few-shot tasks by incorporating the concept of contrastive learning.
 
 # Support-based Query Interaction Module
 
-![image-20231016212731788](./pictures/3.png)
+![image-20231016212731788](3.png)
 
 > The detailed flow of support-based query interaction module.
 
 # Meta-Contrastive Module
 
-![image-20231016212851060](./pictures/4.png)
+![image-20231016212851060](4.png)
 
 > The detailed flow of meta-contrastive module.
 
@@ -41,7 +41,7 @@ conda install pytorch torchvision torchaudio cudatoolkit=11.3 -c pytorch
 
 #  Result
 
-![image-20231016210844054](./pictures/2.png)
+![image-20231016210844054](2.png)
 
 > 5-way few-shot classification performance (%) on the CUB, NAB, and Stanford dogs datasets. The ± denotes that the results are reported with 95% confidence intervals over 1000 test episodes. The highest average accuracy of each column is marked in bold.
 
