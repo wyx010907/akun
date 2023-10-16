@@ -4,8 +4,8 @@ Few-shot fine-grained visual classification combines the challenge of scarcity o
 
 # Architecture of our proposed Network
 
-![image-20231016210225341](C:\Users\1\AppData\Roaming\Typora\typora-user-images\image-20231016210225341.png)
+![image-20231016210225341](1.png)
 
 #  Result
 
-![image-20231016210844054](C:\Users\1\AppData\Roaming\Typora\typora-user-images\image-20231016210844054.png)
+![image-20231016210844054](2.png)
